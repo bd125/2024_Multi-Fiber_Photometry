@@ -6,4 +6,5 @@ While brain regions function in coordination to mediate diverse behaviors, techn
 - [Multi-fiber recording of social behavior network](https://doi.org/10.1016/j.neuron.2023.07.011)
 - [Example dataset](https://zenodo.org/doi/10.5281/zenodo.8428784)
 
-
+## Updates
+- 2024/2/13 Replace a cage plate for better adjustment of focus
